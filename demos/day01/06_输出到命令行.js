@@ -1,3 +1,9 @@
+/**
+ * @Description:
+ * @author Shicheng Xu
+ * @date 2021/9/12
+ */
+
 // 1. 使用控制台模块的基础输出
 /**
  * Node.js 提供了 console 模块，该模块提供了大量非常有用的与命令行交互的方法
